@@ -16,6 +16,9 @@
 
 
 支持核显HDMI输出
+音频正常
+睡眠唤醒正常
+
 
 B站黑苹果NUC9测评视频：https://www.bilibili.com/video/BV1mz4y1d75a/
 
