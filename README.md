@@ -1,9 +1,8 @@
 # NUC9-hackintosh（ NUC9代 幽灵峡谷/石英峡谷）
 
-支持的CPU型号，E-2286M、i9-9980HK、i7-9750H、i5-9300H
+# 支持全系列CPU型号，E-2286M、i9-9980HK、i7-9750H、i5-9300H
 
  NUC9i5/i7/i9QNX、NUC9VXQNX
- 
  
 ![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/Mac.png)
 
@@ -25,10 +24,10 @@
 
 # 板载intel AX200  蓝牙 WIFi 可以驱动，网速也不错 ，但不支持隔空随航，要想实现隔空随航附加功能 需要买一张NVME M.2 SSD转接黑果无线网卡
 
-B站黑苹果NUC9测评视频：https://www.bilibili.com/video/BV1mz4y1d75a/
+# B站黑苹果NUC9测评视频：https://www.bilibili.com/video/BV1mz4y1d75a/
 
-若有其他问题请加Q群：1125705781，备注小明或者B站
+# 若有其他问题请加Q群：608352460，备注小明或者B站
 
-也欢迎关注B站：小明和他的女朋友
+# 也欢迎关注B站：小明和他的女朋友
 
-也提供系统安装服务：https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.2f951deb7F52mW&ft=t&id=624274253739
+# 提供系统安装服务：https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.2f951deb7F52mW&ft=t&id=624274253739
