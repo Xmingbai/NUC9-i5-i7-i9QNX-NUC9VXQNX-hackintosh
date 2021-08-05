@@ -2,7 +2,7 @@
 
 # 支持全系列CPU型号，E-2286M、i9-9980HK、i7-9750H、i5-9300H
 
- NUC9i5/i7/i9QNX、NUC9VXQNX
+# NUC9i5/i7/i9QNX、NUC9VXQNX
  
 ![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/Mac.png)
 
@@ -11,7 +11,6 @@
 ![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/audio.png)
 
 ![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/%E7%BD%91%E5%8D%A1.png)
-
 
 # 支持核显HDMI输出
 
