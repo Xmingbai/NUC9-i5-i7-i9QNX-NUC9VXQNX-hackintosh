@@ -2,6 +2,17 @@
 
 # 支持全系列CPU型号，E-2286M、i9-9980HK、i7-9750H、i5-9300H
 
+
+# 主机测评视频，淘宝店铺：小明白工作室
+
+B站
+
+https://www.bilibili.com/video/BV1em4y1c71M
+
+https://www.bilibili.com/video/BV1mz4y1d75a/
+
+油管 https://www.youtube.com/watch?v=RngHQqNjHTA&t=16s
+
 # NUC9i5/i7/i9QNX、NUC9VXQNX
  
 ![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/Mac.png)
