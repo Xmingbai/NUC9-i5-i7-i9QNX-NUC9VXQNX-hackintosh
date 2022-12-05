@@ -39,4 +39,17 @@ https://www.bilibili.com/video/BV1mz4y1d75a/
 
 # 也欢迎关注B站：小明和他的女朋友
 
+#bios 设置参考
+
+Internal graphics >enable
+
+Security
+Security Features > Intel Platform Trust Technology: Unchecked
+Security Features > Intel Software Guard Extension (SGX): Disabled
+Security Features > Thunderbold Security Level: Legacy mode
+
+Boot
+Secure Boot > Secure Boot: Disabled
+boot Priority > Fast Boot: Unchecked
+
 # 提供系统安装服务：https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.2f951deb7F52mW&ft=t&id=624274253739
