@@ -45,16 +45,16 @@ Internal graphics >enable
 
 Security
 
-Security Features > Intel Platform Trust Technology: Unchecked
+Intel Platform Trust Technology: Unchecked
 
-Security Features > Intel Software Guard Extension (SGX): Disabled
+Intel Software Guard Extension (SGX): Disabled
 
-Security Features > Thunderbold Security Level: Legacy mode
+Thunderbold Security Level: Legacy mode
 
 Boot
 
-Secure Boot > Secure Boot: Disabled
+Secure Boot: Disabled
 
-boot Priority > Fast Boot: Unchecked
+Fast Boot: Unchecked
 
 # 提供系统安装服务：https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.2f951deb7F52mW&ft=t&id=624274253739
