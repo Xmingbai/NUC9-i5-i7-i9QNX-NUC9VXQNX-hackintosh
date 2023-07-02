@@ -4,6 +4,9 @@
 
 # 主机测评视频，淘宝店铺：小明白工作室
 
+#更新引导至OC094版本 可支持新版MacOS，可支持Catalina、big sur、Monterey、Ventura、Sonoma
+
+
 B站
 
 https://www.bilibili.com/video/BV1em4y1c71M
@@ -24,7 +27,7 @@ https://www.bilibili.com/video/BV1mz4y1d75a/
 
 # 支持核显HDMI输出
 
-# 前置音频输出正常
+# 前后音频输出皆正常
 
 # 睡眠唤醒正常，支持USB唤醒
 
