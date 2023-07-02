@@ -15,15 +15,31 @@ https://www.bilibili.com/video/BV1mz4y1d75a/
 
 # NUC9i5/i7/i9QNX、NUC9VXQNX  MacOS 完善程度
 
- 核显支持核显HDMI/Tyepc-c显示输出
+CPU正常睿频（i5/i7/i9/E2286M）
 
- 前后3.5音频输出皆正常
+核显支持HDMI/Tyepc-c显示输出
 
- 睡眠唤醒正常，支持USB唤醒
+前后USB所有正常使用
 
- 雷电支持热插拔，可支持接显示器、接雷电硬盘
+SD卡槽正常使用
 
- 板载intel AX200  蓝牙 WIFi可以驱动，网速非常不错 ，但不支持隔空随航，要想实现隔空随航附加功能 需要买一张NVME M.2 SSD转接黑果无线网卡
+前后3.5音频输出皆正常
+
+睡眠唤醒正常，支持USB唤醒
+
+雷电支持热插拔，可支持接显示器、接雷电硬盘
+
+有线网卡i219正常使用，I210不建议开启
+
+板载intel AX200 蓝牙 和WIFi都可以驱动，网速非常不错 ，但不支持隔空随航；MacOS 14需搭配heliport APP使用WIFI功能
+
+若想实现隔空随航附加功能 需要买一张NVME M.2 SSD转接黑果无线网卡
+
+引导默认可支持独显（RX560/570/590/5500/5600/5700/6600系列）
+
+没有独显仅使用核显，需修改引导的IGPU-config.plist为config.plist使用
+
+作者：小明和他的女朋友 https://www.bilibili.com/read/cv24729831 出处：bilibili
 
 ![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/Sonoma.png)
 ![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/Ventura.png)
