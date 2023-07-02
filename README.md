@@ -13,27 +13,7 @@ https://www.bilibili.com/video/BV1mz4y1d75a/
 
 油管 https://www.youtube.com/watch?v=RngHQqNjHTA&t=16s
 
-# NUC9i5/i7/i9QNX、NUC9VXQNX
-
-
- 
-![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/PCI.png)
-![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/PCI.png)
-
-![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/PCI.png)
-
-![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/PCI.png)
-
-![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/PCI.png)
-
-
-![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/PCI.png)
-
-![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/audio.png)
-
-![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/%E7%BD%91%E5%8D%A1.png)
-
-# MacOS 完善程度
+# NUC9i5/i7/i9QNX、NUC9VXQNX  MacOS 完善程度
 
  核显支持核显HDMI/Tyepc-c显示输出
 
@@ -45,6 +25,15 @@ https://www.bilibili.com/video/BV1mz4y1d75a/
 
  板载intel AX200  蓝牙 WIFi可以驱动，网速非常不错 ，但不支持隔空随航，要想实现隔空随航附加功能 需要买一张NVME M.2 SSD转接黑果无线网卡
 
+![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/Sonoma.png)
+![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/Ventura.png)
+![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/TB3.png)
+![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/TB3-SN750.png)
+![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/音频.png)
+![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/WIFI6.png)
+![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/BT.png)
+![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/雷电接显示器.png)
+![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/有线网口.png)
 
 # 若有其他问题请加Q群：608352460，备注小明或者B站
 
