@@ -1,4 +1,4 @@
-# NUC9-hackintosh（ NUC9代 幽灵峡谷/石英峡谷）
+#  NUC9代 幽灵峡谷/石英峡谷
 
 # 支持全系列CPU型号，E-2286M、i9-9980HK、i7-9750H、i5-9300H
 
@@ -7,6 +7,8 @@
 #更新引导至OC094版本 可支持新版MacOS，可支持Catalina、big sur、Monterey、Ventura、Sonoma
 
 B站
+https://www.bilibili.com/read/cv24729831
+
 https://www.bilibili.com/video/BV1em4y1c71M
 
 https://www.bilibili.com/video/BV1mz4y1d75a/
