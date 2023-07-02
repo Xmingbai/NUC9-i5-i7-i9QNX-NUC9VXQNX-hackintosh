@@ -33,6 +33,7 @@ https://www.bilibili.com/video/BV1mz4y1d75a/
 ![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/WIFI6.png)
 ![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/BT.png)
 ![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/雷电接显示器.png)
+![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/HDMI2.0.png)
 ![](https://github.com/Xmingbai/NUC9-hackintosh-i5-i7-i9QNX-NUC9VXQNX-hackintosh/blob/main/有线网口.png)
 
 # 若有其他问题请加Q群：608352460，备注小明或者B站
