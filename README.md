@@ -4,7 +4,7 @@
 
 # 主机测评视频，淘宝店铺：小明白工作室
 
-更新引导至OC094版本 可支持新版MacOS，包含Catalina、big sur、Monterey、Ventura、Sonoma
+更新引导至OC095版本 可支持新版MacOS，包含Catalina、big sur、Monterey、Ventura、Sonoma
 
 # 相关链接 （白嫖的小伙伴 以下测评视频给个三连再走）
 说明指南： https://www.bilibili.com/read/cv24729831
