@@ -6,7 +6,7 @@
 
 更新引导至OC094版本 可支持新版MacOS，包含Catalina、big sur、Monterey、Ventura、Sonoma
 
-# 相关链接
+# 相关链接 （白嫖的小伙伴 以下测评视频给个三连再走）
 说明指南： https://www.bilibili.com/read/cv24729831
 
 https://www.bilibili.com/video/BV1em4y1c71M
